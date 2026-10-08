@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "EVA-01",
+  "description": "Evangelion Unit-01: gedecktes Dunkelviolett, Violett als Akzent, EVA-Grün für Highlights, NERV-Orange für Badges.",
+  "author": "Custom",
+  "base": "dark",
+
+  "seeds": {
+    "background": "#121018",
+    "primary": "#9D7BFF",
+    "secondary": "#9BE564",
+    "text": "#E8E4F0",
+    "navigation": "#0C0A11",
+    "error": "#FF5C72",
+    "success": "#8BE36A",
+    "warning": "#F5A524"
+  },
+
+  "palette": {
+    "content": "#16131D",
+    "card": "#1D1926",
+    "field": "#1A1622",
+    "raised": "#262131",
+    "hover": "#2F2840",
+    "selection": "#2C2445",
+    "outline": "#2A2434",
+    "outlineStrong": "#463A5E",
+    "textSecondary": "#A9A2B8",
+    "textTertiary": "#8A839C",
+    "chromeTextSecondary": "#A9A2B8",
+    "chromeTextTertiary": "#8A839C",
+    "accentHover": "#B39BFF",
+    "accentContainer": "#352A5C",
+    "callBackground": "#1E3A16",
+    "ownMessage": "#2E2550",
+    "badge": "#F28C28",
+    "onBadge": "#121018"
+  },
+
+  "fonts": {
+    "normal": "Segoe UI",
+    "semiBold": "Segoe UI Semibold, Segoe UI",
+    "bold": "Segoe UI Bold, Segoe UI",
+    "italic": "Segoe UI",
+    "normalWeight": "Normal"
+  }
+}
